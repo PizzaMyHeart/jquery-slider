@@ -1,0 +1,40 @@
+#wrapper {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#slider {
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+  margin: 30px auto;
+}
+
+#slider > img {
+  width: 600px;
+  height: 400px;
+  float: left;
+  display: ;
+}
+
+.navbtn {
+  text-decoration: none;
+  background-color: #F0F0F0;
+  padding: 5px 10px;
+  margin-top: 30px;
+  color: #666;
+  font-family: verdana;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+#credit {
+  margin-top: 150px;
+  font: 12px calibri;
+}
